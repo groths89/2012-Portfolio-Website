@@ -1,0 +1,216 @@
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>template-2</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<link href="../as2/as2 style sheet.css" rel="stylesheet" type="text/css">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('file:///C|/Users/Gregory/Desktop/as2/rollover_link.jpg')">
+<!-- Save for Web Slices (template-2.psd) -->
+<table id="Table_01" width="951" height="1051" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td width="133" height="1">
+			<img src="../as2/images/spacer.gif" width="133" height="1" alt=""></td>
+		<td width="9" height="1">
+			<img src="../as2/images/spacer.gif" width="9" height="1" alt=""></td>
+		<td width="6" height="1">
+			<img src="../as2/images/spacer.gif" width="6" height="1" alt=""></td>
+		<td width="6" height="1">
+			<img src="../as2/images/spacer.gif" width="6" height="1" alt=""></td>
+		<td width="492" height="1">
+			<img src="../as2/images/spacer.gif" width="492" height="1" alt=""></td>
+		<td width="31" height="1">
+			<img src="../as2/images/spacer.gif" width="31" height="1" alt=""></td>
+		<td width="1" height="1">
+			<img src="../as2/images/spacer.gif" width="1" height="1" alt=""></td>
+		<td width="27" height="1">
+			<img src="../as2/images/spacer.gif" width="27" height="1" alt=""></td>
+		<td width="157" height="1">
+			<img src="../as2/images/spacer.gif" width="157" height="1" alt=""></td>
+		<td width="44" height="1">
+			<img src="../as2/images/spacer.gif" width="44" height="1" alt=""></td>
+		<td width="44" height="1">
+			<img src="../as2/images/spacer.gif" width="44" height="1" alt=""></td>
+		<td width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="142" height="243" colspan="2" rowspan="5">
+			<img src="../as2/images/template-2_01.jpg" width="142" height="243" alt=""></td>
+		<td width="536" height="102" colspan="5">
+			<img src="../as2/images/template-2_02.jpg" width="536" height="102" alt=""></td>
+		<td width="184" height="108" colspan="2" rowspan="2">
+			<img src="../as2/images/template-2_03.jpg" width="184" height="108" alt=""></td>
+		<td width="88" height="108" colspan="2" rowspan="2">
+			<img src="../as2/images/template-2_04.jpg" width="88" height="108" alt=""></td>
+		<td width="1" height="102">
+			<img src="../as2/images/spacer.gif" width="1" height="102" alt=""></td>
+	</tr>
+	<tr>
+		<td width="536" height="6" colspan="5">
+			<img src="../as2/images/template-2_05.jpg" width="536" height="6" alt=""></td>
+		<td width="1" height="6">
+			<img src="../as2/images/spacer.gif" width="1" height="6" alt=""></td>
+	</tr>
+	<tr>
+		<td width="6" height="821" rowspan="13">
+			<img src="../as2/images/template-2_06.jpg" width="6" height="821" alt=""></td>
+		<td width="529" height="46" colspan="3">
+			<img src="../as2/images/template-2_07.jpg" width="529" height="46" alt=""></td>
+		<td width="273" height="46" colspan="5">
+			<img src="../as2/images/template-2_08.jpg" width="273" height="46" alt=""></td>
+		<td width="1" height="46">
+			<img src="../as2/images/spacer.gif" width="1" height="46" alt=""></td>
+	</tr>
+	<tr>
+		<td width="802" height="13" colspan="8">
+			<img src="../as2/images/template-2_09.jpg" width="802" height="13" alt=""></td>
+		<td width="1" height="13">
+			<img src="../as2/images/spacer.gif" width="1" height="13" alt=""></td>
+	</tr>
+	<tr>
+		<td width="6" height="762" rowspan="11">
+			<img src="../as2/images/template-2_10.jpg" width="6" height="762" alt=""></td>
+		<td width="492" height="762" rowspan="11" valign="top"><!-- TemplateBeginEditable name="textarea" -->&nbsp;<!-- TemplateEndEditable --></td>
+		<td width="31" height="762" rowspan="11">
+		  <img src="../as2/images/template-2_12.jpg" width="31" height="762" alt=""></td>
+		<td width="185" height="76" colspan="3">
+			<img src="../as2/images/template-2_13.jpg" width="185" height="76" alt=""></td>
+		<td width="88" height="764" colspan="2" rowspan="13">
+			<img src="../as2/images/template-2_14.jpg" width="88" height="764" alt=""></td>
+		<td width="1" height="76">
+			<img src="../as2/images/spacer.gif" width="1" height="76" alt=""></td>
+	</tr>
+	<tr>
+		<td width="133" height="807" rowspan="15">
+			<img src="../as2/images/template-2_15.jpg" width="133" height="807" alt=""></td>
+		<td width="9" height="807" rowspan="15">
+			<img src="../as2/images/template-2_16.jpg" width="9" height="807" alt=""></td>
+		<td width="1" height="132" rowspan="2">
+			<img src="../as2/images/template-2_17.jpg" width="1" height="132" alt=""></td>
+		<td width="184" height="72" colspan="2"><a href="file:///C|/Users/Gregory/Desktop/as2/page-1.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image67','','../as2/rollover_link.jpg',1)"><img src="../as2/images/template-2_18.jpg" name="Image67" width="184" height="72" border="0"></a></td>
+		<td width="1" height="72">
+			<img src="../as2/images/spacer.gif" width="1" height="72" alt=""></td>
+	</tr>
+	<tr>
+		<td width="184" height="60" colspan="2">
+			<img src="../as2/images/template-2_19.jpg" width="184" height="60" alt=""></td>
+		<td width="1" height="60">
+			<img src="../as2/images/spacer.gif" width="1" height="60" alt=""></td>
+	</tr>
+	<tr>
+		<td width="185" height="72" colspan="3"><a href="file:///C|/Users/Gregory/Desktop/as2/page-2.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image68','','../as2/rollover_link.jpg',1)"><img src="../as2/images/template-2_20.jpg" name="Image68" width="185" height="72" border="0"></a></td>
+		<td width="1" height="72">
+			<img src="../as2/images/spacer.gif" width="1" height="72" alt=""></td>
+	</tr>
+	<tr>
+		<td width="1" height="66">
+			<img src="../as2/images/template-2_21.jpg" width="1" height="66" alt=""></td>
+		<td width="184" height="66" colspan="2">
+			<img src="../as2/images/template-2_22.jpg" width="184" height="66" alt=""></td>
+		<td width="1" height="66">
+			<img src="../as2/images/spacer.gif" width="1" height="66" alt=""></td>
+	</tr>
+	<tr>
+		<td width="185" height="72" colspan="3"><a href="file:///C|/Users/Gregory/Desktop/as2/page-3.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image69','','../as2/rollover_link.jpg',1)"><img src="../as2/images/template-2_23.jpg" name="Image69" width="185" height="72" border="0"></a></td>
+		<td width="1" height="72">
+			<img src="../as2/images/spacer.gif" width="1" height="72" alt=""></td>
+	</tr>
+	<tr>
+		<td width="185" height="64" colspan="3">
+			<img src="../as2/images/template-2_24.jpg" width="185" height="64" alt=""></td>
+		<td width="1" height="64">
+			<img src="../as2/images/spacer.gif" width="1" height="64" alt=""></td>
+	</tr>
+	<tr>
+		<td width="185" height="73" colspan="3"><a href="file:///C|/Users/Gregory/Desktop/as2/page-4.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image70','','../as2/rollover_link.jpg',1)"><img src="../as2/images/template-2_25.jpg" name="Image70" width="185" height="73" border="0"></a></td>
+		<td width="1" height="73">
+			<img src="../as2/images/spacer.gif" width="1" height="73" alt=""></td>
+	</tr>
+	<tr>
+		<td width="1" height="66">
+			<img src="../as2/images/template-2_26.jpg" width="1" height="66" alt=""></td>
+		<td width="184" height="66" colspan="2">
+			<img src="../as2/images/template-2_27.jpg" width="184" height="66" alt=""></td>
+		<td width="1" height="66">
+			<img src="../as2/images/spacer.gif" width="1" height="66" alt=""></td>
+	</tr>
+	<tr>
+		<td width="185" height="72" colspan="3"><a href="file:///C|/Users/Gregory/Desktop/as2/page-5.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image71','','../as2/rollover_link.jpg',1)"><img src="../as2/images/template-2_28.jpg" name="Image71" width="185" height="72" border="0"></a></td>
+		<td width="1" height="72">
+			<img src="../as2/images/spacer.gif" width="1" height="72" alt=""></td>
+	</tr>
+	<tr>
+		<td width="1" height="69">
+			<img src="../as2/images/template-2_29.jpg" width="1" height="69" alt=""></td>
+		<td width="184" height="69" colspan="2">
+			<img src="../as2/images/template-2_30.jpg" width="184" height="69" alt=""></td>
+		<td width="1" height="69">
+			<img src="../as2/images/spacer.gif" width="1" height="69" alt=""></td>
+	</tr>
+	<tr>
+		<td width="563" height="113" colspan="6" rowspan="3">
+			<img src="../as2/images/template-2_31.jpg" width="563" height="113" alt=""></td>
+		<td width="157" height="1">
+			<img src="../as2/images/template-2_32.jpg" width="157" height="1" alt=""></td>
+		<td width="1" height="1">
+			<img src="../as2/images/spacer.gif" width="1" height="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="157" height="1">
+			<img src="../as2/images/template-2_33.jpg" width="157" height="1" alt=""></td>
+		<td width="1" height="1">
+			<img src="../as2/images/spacer.gif" width="1" height="1" alt=""></td>
+	</tr>
+	<tr>
+		<td width="201" height="114" colspan="2" rowspan="2">
+			<img src="../as2/images/template-2_34.jpg" width="201" height="114" alt=""></td>
+		<td width="44" height="119" rowspan="3">
+			<img src="../as2/images/template-2_35.jpg" width="44" height="119" alt=""></td>
+		<td width="1" height="111">
+			<img src="../as2/images/spacer.gif" width="1" height="111" alt=""></td>
+	</tr>
+	<tr>
+		<td width="563" height="8" colspan="6" rowspan="2">
+			<img src="../as2/images/template-2_36.jpg" width="563" height="8" alt=""></td>
+		<td width="1" height="3">
+			<img src="../as2/images/spacer.gif" width="1" height="3" alt=""></td>
+	</tr>
+	<tr>
+		<td width="201" height="5" colspan="2">
+			<img src="../as2/images/template-2_37.jpg" width="201" height="5" alt=""></td>
+		<td width="1" height="5">
+			<img src="../as2/images/spacer.gif" width="1" height="5" alt=""></td>
+	</tr>
+</table>
+<p class="footer">Template Business Name | 215 W 5th St. Winner, SD 26867 <span class="txt1">(519) 294-2575</span> | 530 W 153rd St. New York, NY 12353 <span class="txt1">(202) 848-2738 </span>|</p>
+<!-- End Save for Web Slices -->
+</body>
+</html>
