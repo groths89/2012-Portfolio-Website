@@ -1,0 +1,32 @@
+@charset "utf-8";
+#container {
+	background-color: #06C;
+	height: auto;
+	width: auto;
+}
+#prev {
+	width: 100px;
+	float: left;
+}
+#back {
+	width: 700px;
+	padding-left: 0px;
+	float: left;
+}
+#navgall {
+	padding-right: 300px;
+	padding-left: 300px;
+	height: 50px;
+}
+#prev {
+	width: 200px;
+	padding-right: 50px;
+	padding-left: 50px;
+	float: left;
+	clear: both;
+}
+#gall {
+	width: 100px;
+	float: left;
+	clear: both;
+}
